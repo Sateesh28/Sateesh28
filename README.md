@@ -1,19 +1,8 @@
 
-a = int(input("Enter the first number : "))
-b = int(input("Enter the second number : "))
-print("a<b",a<b)
-print("a>b",a>b)
-print("a>=b",a>=b)
-print("a<=b",a<=b)
-print("a==b",a==b)
-print("a!=b",a!=b)
+a = int(input("Enter the distance in Kilometers : "))
+centimeter=a*100000
+print("The distance in Kilometers is",a,"Km,The converted distance in centimeters is",centimeter)
 
 Output:-
-Enter the first number : 4
-Enter the second number : 5
-a<b True
-a>b False
-a>=b False
-a<=b True
-a==b False
-a!=b True
+Enter the distance in Kilometers : 457
+The distance in Kilometers is 457 Km,The converted distance in centimeters is 45700000
