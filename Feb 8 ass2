@@ -1,6 +1,6 @@
 
 a = int(input("Enter the distance in Kilometers : "))
-centimeter=a*100000
+-centimeter=a*100000
 print("The distance in Kilometers is",a,"Km,The converted distance in centimeters is",centimeter)
 
 Output:-
