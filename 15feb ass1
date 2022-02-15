@@ -1,0 +1,14 @@
+a=int(input())
+b=int(input())
+print(a+b)
+print(a-b)
+print(a*b)
+
+compiler massage:Success
+Input (stdin)
+5
+3
+Expected Output
+8
+2
+15
